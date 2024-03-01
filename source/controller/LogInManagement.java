@@ -42,8 +42,8 @@ public class LogInManagement {
     public void LogIn(int type, String user) {
         System.out.println("Log in successfully");
         if (type == 1) {
-            //FrameManager frameManager = new FrameManager(user);
-            //frameManager.setVisible(true);
+            // FrameManager frameManager = new FrameManager(user);
+            // frameManager.setVisible(true);
             ManagerManagement managerManagement = new ManagerManagement(user);
         } /*
            * else {

@@ -1,1 +1,2 @@
 100,Dang Phuc Tri,0123456789,tripercy@gmail.com,181 Be Van Dan,Staff,tripercy,tripercy1,Active
+1,Nguyen Van A,0123456789,phamduchungpro@gmail.com,264B Yen Nghia District Ha Dong Ha Noi,Manager,admin,hung123,Active
